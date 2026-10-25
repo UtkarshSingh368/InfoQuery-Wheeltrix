@@ -1,0 +1,132 @@
+[
+  {
+    "title": "2024 ICC Men's T20 World Cup",
+    "category": "Sports • Cricket",
+    "content": "India won the 2024 ICC Men's T20 World Cup by defeating South Africa in the final. India won the final by seven runs, and Jasprit Bumrah was named Player of the Tournament."
+  },
+  {
+    "title": "2023 Cricket World Cup",
+    "category": "Sports • Cricket",
+    "content": "Australia won the 2023 ICC Men's Cricket World Cup by defeating India in the final. Travis Head scored a century in the final and was named Player of the Match."
+  },
+  {
+    "title": "Football Offside Rule",
+    "category": "Sports • Football",
+    "content": "In football, a player is generally in an offside position if any part of the head, body or feet is nearer to the opponents' goal line than both the ball and the second-last opponent when the ball is played by a teammate. Being in an offside position is not by itself an offence; the player must become involved in active play."
+  },
+  {
+    "title": "Basketball Scoring",
+    "category": "Sports • Basketball",
+    "content": "In basketball, a free throw is worth one point, a field goal made from inside the three-point line is worth two points, and a successful shot from beyond the three-point line is worth three points."
+  },
+  {
+    "title": "Tennis Scoring",
+    "category": "Sports • Tennis",
+    "content": "A standard tennis game uses the sequence love, 15, 30 and 40. A player normally needs to win four points and lead by at least two points to win a game. At 40-40, the score is called deuce."
+  },
+  {
+    "title": "Olympic Games",
+    "category": "Sports • Olympics",
+    "content": "The Olympic Games are an international multi-sport event held in summer and winter editions. Athletes represent countries and compete across many sports under rules established by international sport federations."
+  },
+  {
+    "title": "Machine Learning",
+    "category": "Technology • AI",
+    "content": "Machine learning is a branch of artificial intelligence in which algorithms learn patterns from data to make predictions or decisions. Supervised learning uses labelled examples, while unsupervised learning works with data without target labels."
+  },
+  {
+    "title": "TF-IDF",
+    "category": "Technology • NLP",
+    "content": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It gives higher weight to terms that are frequent in a document but relatively uncommon across the document collection. It is widely used for information retrieval and text similarity."
+  },
+  {
+    "title": "BM25",
+    "category": "Technology • Information Retrieval",
+    "content": "BM25 is a ranking algorithm used in information retrieval. It scores documents using term frequency, inverse document frequency and document-length normalization. BM25 is commonly used to rank documents for search queries."
+  },
+  {
+    "title": "Cosine Similarity",
+    "category": "Technology • Machine Learning",
+    "content": "Cosine similarity measures the angle between two vectors rather than their absolute length. In text retrieval, documents and queries can be represented as TF-IDF vectors and compared using cosine similarity."
+  },
+  {
+    "title": "GPS",
+    "category": "Technology • Location",
+    "content": "GPS is a satellite-based positioning system that can estimate a receiver's location. Applications can combine GPS coordinates with maps, reverse geocoding and road data to provide location-aware services."
+  },
+  {
+    "title": "Cloud Computing",
+    "category": "Technology • Cloud",
+    "content": "Cloud computing provides computing resources such as servers, storage and databases over a network. Cloud services can scale resources according to demand and reduce the need for users to maintain physical infrastructure themselves."
+  },
+  {
+    "title": "Photosynthesis",
+    "category": "Science • Biology",
+    "content": "Photosynthesis is the process by which plants, algae and some microorganisms use light energy to convert carbon dioxide and water into chemical energy. Oxygen is released as a by-product in oxygenic photosynthesis."
+  },
+  {
+    "title": "Water Cycle",
+    "category": "Science • Earth",
+    "content": "The water cycle describes the continuous movement of water through evaporation, condensation, precipitation, infiltration, runoff and collection. Solar energy drives much of the cycle."
+  },
+  {
+    "title": "Climate Change",
+    "category": "Science • Environment",
+    "content": "Climate change refers to long-term changes in Earth's climate patterns. Human activities, especially greenhouse-gas emissions from burning fossil fuels, have increased global average temperatures and contributed to changes in weather and ecosystems."
+  },
+  {
+    "title": "Internet and HTTP",
+    "category": "Technology • Web",
+    "content": "HTTP is an application-layer protocol used to transfer resources on the web. A browser commonly sends an HTTP request to a server, and the server responds with a status code and requested content or an error message."
+  },
+  {
+    "title": "Database Management Systems",
+    "category": "Technology • DBMS",
+    "content": "A database management system is software used to store, organize, retrieve and manage data. Relational database systems represent data in tables and commonly use SQL for querying and manipulation."
+  },
+  {
+    "title": "News Article Demo — Sports Analytics",
+    "category": "Demo News • Sports",
+    "content": "A sample sports analytics report describes how teams use historical match data, player statistics and performance indicators to support scouting and strategy. Such analysis can complement, but should not replace, coaching judgement and direct observation."
+  },
+  {
+    "title": "News Article Demo — AI in Education",
+    "category": "Demo News • Technology",
+    "content": "A sample technology report describes how AI tools can support education through personalised practice, feedback and document analysis. The report also highlights the importance of checking generated information and protecting student privacy."
+  },
+  {
+    "title": "General Knowledge — Evidence",
+    "category": "General Knowledge",
+    "content": "A reliable answer should be supported by relevant evidence. In a document-based Q&A system, retrieval identifies useful passages first, and an extractive answer is then formed from those passages rather than inventing unsupported facts."
+  },
+  {
+    "title": "2026 FIFA World Cup",
+    "category": "Sports • Football • 2026",
+    "content": "Spain won the 2026 FIFA World Cup by defeating Argentina 1-0 after extra time in the final on 19 July 2026 at New York New Jersey Stadium. Ferran Torres scored the winning goal in the 106th minute. Spain won the World Cup for the second time, after their 2010 title."
+  },
+  {
+    "title": "2026 FIFA World Cup Awards",
+    "category": "Sports • Football • 2026",
+    "content": "At the 2026 FIFA World Cup, Spain's Rodri won the Golden Ball, Kylian Mbappe of France won the Golden Boot with ten goals, and Unai Simon of Spain won the Golden Glove. Spain finished first, Argentina second and England third."
+  },
+  {
+    "title": "2026 Sports Q&A — World Cup Final",
+    "category": "Sports • Football • 2026",
+    "content": "The 2026 FIFA World Cup final was Spain 1-0 Argentina after extra time. Ferran Torres scored in the 106th minute. The final was played at New York New Jersey Stadium on 19 July 2026."
+  },
+  {
+    "title": "Cricket — T20 World Cup 2024",
+    "category": "Sports • Cricket",
+    "content": "India won the 2024 ICC Men's T20 World Cup by defeating South Africa by seven runs in the final. Jasprit Bumrah was named Player of the Tournament."
+  },
+  {
+    "title": "Football — World Cup 2022",
+    "category": "Sports • Football",
+    "content": "Argentina won the 2022 FIFA World Cup after defeating France in a 3-3 final and winning the penalty shootout. Lionel Messi was a central figure in Argentina's championship."
+  },
+  {
+    "title": "General Q&A — How retrieval works",
+    "category": "Technology • Information Retrieval",
+    "content": "A retrieval-based question answering system first represents a question and knowledge passages as searchable features, ranks the passages with an information-retrieval algorithm, and extracts relevant evidence to form an answer. TF-IDF with cosine similarity and BM25 are common classical retrieval approaches."
+  }
+]
